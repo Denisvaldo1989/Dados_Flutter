@@ -3,7 +3,8 @@
 Um simples aplicativo de jogo de dados.
 
 ## Preview
-<img src="">
+<img src="https://github.com/Denisvaldo1989/Dados_Flutter/blob/master/codeexample/DadoVegas.png">
+<img src="https://github.com/Denisvaldo1989/Dados_Flutter/blob/master/codeexample/DadoVegas.gif"width=300">
 
 
 ## Getting Started
